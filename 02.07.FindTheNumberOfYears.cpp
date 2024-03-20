@@ -3,28 +3,25 @@ using namespace std;
 
 /*
     =====================================================
-    02.06. Sum the digits in an integer
-    By   : Putra
+    02.07. Find The Number Of Years
+    By   : #bayuyudhasaputra
     Lang : idn (Indonesia)
     -----------------------------------------------------
     Masalah :
-   
-    Tuliskan program yang membaca bilangan mulai dari
-    0 hingga 1000. Kemudian, digit-digit bilangan ini
-    dijumlahkan. Misal, pengguna menginput bilangan
-    932 maka program akan menampilkan jumlah digit-
-    digit bilangan ini ( 9 + 3 + 2 ), yaitu 14.
 
-    Petunjuk: Gunakan operator % untuk mengekstrak
-    digit-digit bilangan ini. Dan, gunakan operator /
-    untuk menghilangkan digit yang telah diekstrak.
-    Misal, 932 % 10 = 2 dan 932 / 10 = 93.
+    Tuliskan program yang menawarkan prompt kepada kepada
+    pengguna untuk menginput rentang waktu dalam satuan
+    menit (Misal, 1 miliar menit). Kemudian, program
+    menampilkan hasil konversi dari jangka waktu menit
+    ini ke dalam tahun, hari, jam dan menit. Untuk
+    mempermudah perhitungan, satu tahun diasumsikan
+    365 hari.
 
-    ===================================================== 
+    =====================================================
 */
 
 int main() {
-    cout << endl 
+    cout << endl
          << "================================================================="
          << endl
          << endl
@@ -40,7 +37,7 @@ int main() {
     cout << "Input rentang waktu dalam menit (Mis. 5000000) : ";
     cin >> menit;
     cout << endl
-         << "Anda menginput " << menit << " menit." 
+         << "Anda menginput " << menit << " menit."
          << endl
          << endl;
 
