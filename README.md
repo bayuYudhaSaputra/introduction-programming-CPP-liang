@@ -13,10 +13,144 @@
     yang ditulis oleh Liang.
 </p>
 <p>
-    Penjelasan mengenai baris kode yang sudah <em>#bayuyudhasaputra</em> kerjakan dapat dibaca melalui tautan berikut:
+    Penjelasan mengenai baris kode yang sudah dikerjakan oleh <em>#bayuyudhasaputra</em> dapat dibaca melalui tautan berikut:
 </p>
 <div>
-  <h2> Chapter 1 </h2>
+   <h2> Chapter 1 </h2>
+    <ul>
+        <li> 01.01.display_two_message
+            <span> | </span>
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/01.01.display_two_message.cpp">
+              (Baris Kode)
+            </a>
+            <span> | </span>
+            <a>
+              (Penjelasan)
+            </a>
+            <span> | </span>
+        </li>
+        <li> 01.02.display_five_message
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/01.02.display_five_message.cpp">
+          (Baris Kode)
+        </a>
+        <span> | </span>
+        <a>
+          (Penjelasan)
+        </a>
+        <span> | </span>
+      </li>
+      <li> 01.03.display-pattern
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/01.03.display-pattern.cpp">
+          (Baris Kode)
+        </a>
+        <span> | </span>
+        <a>
+          (Penjelasan)
+        </a>
+        <span> | </span>
+      </li>
+      <li> 01.04.print_a_table
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/01.04.print_a_table.cpp">
+          (Baris Kode)
+        </a>
+        <span> | </span>
+        <a>
+          (Penjelasan)
+        </a>
+        <span> | </span>
+      </li>
+      <li> 01.05.compute_expressions
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/01.05.compute_expressions.cpp">
+          (Baris Kode)
+        </a>
+        <span> | </span>
+        <a>
+          (Penjelasan)
+        </a>
+        <span> | </span>
+      </li>
+      <li> 01.06.Summation_of_odd_numbers
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/01.06.Summation_of_odd_numbers.cpp">
+          (Baris Kode)
+        </a>
+        <span> | </span>
+        <a>
+          (Penjelasan)
+        </a>
+        <span> | </span>
+      </li>
+      <li> 01.07.Aproximation_of_phi
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/01.07.Aproximation_of_phi.cpp">
+          (Baris Kode)
+        </a>
+        <span> | </span>
+        <a>
+          (Penjelasan)
+        </a>
+        <span> | </span>
+      </li>
+      <li> 01.08.Area_and_perimeter_of_equilateral_triangle
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/01.08.Area_and_perimeter_of_equilateral_triangle.cpp">
+          (Baris Kode)
+        </a>
+        <span> | </span>
+        <a>
+          (Penjelasan)
+        </a>
+        <span> | </span>
+      </li>
+      <li> 01.09.Area_and_perimeter_of_square
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/01.09.Area_and_perimeter_of_square.cpp">
+          (Baris Kode)
+        </a>
+        <span> | </span>
+        <a>
+          (Penjelasan)
+        </a>
+        <span> | </span>
+      </li>
+      <li> 01.10. Average_sales_in_grams
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/01.10.%20Average_sales_in_grams.cpp">
+          (Baris Kode)
+        </a>
+        <span> | </span>
+        <a>
+          (Penjelasan)
+        </a>
+        <span> | </span>
+      </li>
+      <li> 01.11.population projection
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/01.11.population%20projection.cpp">
+          (Baris Kode)
+        </a>
+        <span> | </span>
+        <a>
+          (Penjelasan)
+        </a>
+        <span> | </span>
+      </li>
+      <li> 01.12. Average_sales_in_kilograms
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/01.12.%20Average_sales_in_kilograms.cpp">
+          (Baris Kode)
+        </a>
+        <span> | </span>
+        <a>
+          (Penjelasan)
+        </a>
+        <span> | </span>
+      </li>
+    </ul>
 </div>
 <div>
     <h2> Chapter 2 </h2>
