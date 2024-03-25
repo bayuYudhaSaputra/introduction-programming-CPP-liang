@@ -260,7 +260,7 @@
            (Baris Kode)
           </a>
           <span> | </span>
-          <a href=""> 
+          <a href="https://www.slideshare.net/slideshow/0210-menentukan-energi-kalor-menggunakan-bahasa-pemrograman-c/266952644"> 
            (Penjelasan) 
           </a>
         <span> | </span>
