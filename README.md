@@ -254,6 +254,17 @@
         </a>
         <span> | </span>
       </li>
+      <li> 02.10.CalculatingEnergy
+          <span> | </span>
+          <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/02.10.CalculatingEnergy.cpp">
+           (Baris Kode)
+          </a>
+          <span> | </span>
+          <a href=""> 
+           (Penjelasan) 
+          </a>
+        <span> | </span>
+      </li>
     </ul>
 </div>
 
