@@ -265,6 +265,17 @@
           </a>
         <span> | </span>
       </li>
+    <li> 02.11.PopulationProjection
+          <span> | </span>
+          <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/02.11.PopulationProjection.cpp">
+           (Baris Kode)
+          </a>
+          <span> | </span>
+          <a href="https://www.slideshare.net/slideshow/0211-memproyeksikan-jumlah-populasi-menggunakan-bahasa-pemrograman-c/266976249"> 
+           (Penjelasan) 
+          </a>
+        <span> | </span>
+      </li>
     </ul>
 </div>
 
