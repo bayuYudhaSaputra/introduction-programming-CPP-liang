@@ -276,6 +276,17 @@
           </a>
         <span> | </span>
       </li>
+      <li> 02.12.RunwayLength
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/02.12.RunwayLength.cpp">
+           (Baris Kode)
+        </a>
+        <span> | </span>
+        <a href="https://www.slideshare.net/slideshow/0212-menghitung-panjang-runway-menggunakan-bahasa-pemrograman-c/266994022"> 
+           (Penjelasan) 
+        </a>
+        <span> | </span>
+      </li>
     </ul>
 </div>
 
