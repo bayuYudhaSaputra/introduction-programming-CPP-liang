@@ -287,13 +287,24 @@
         </a>
         <span> | </span>
       </li>
-        <li> 02.13.CompoundingInterest
+      <li> 02.13.CompoundingInterest
         <span> | </span>
         <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/02.13.CompoundingInterest.cpp">
            (Baris Kode)
         </a>
         <span> | </span>
         <a href="https://www.slideshare.net/slideshow/0213-menghitung-bunga-majemuk-menggunakan-bahasa-pemrograman-c/267040721"> 
+           (Penjelasan) 
+        </a>
+        <span> | </span>
+      </li>
+      <li> 02.14.BodyMassIndex
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/02.14.BodyMassIndex.cpp">
+           (Baris Kode)
+        </a>
+        <span> | </span>
+        <a href="https://www.slideshare.net/slideshow/0214-menentukan-body-mass-index-menggunakan-bahasa-pemrograman-c/267052288"> 
            (Penjelasan) 
         </a>
         <span> | </span>
