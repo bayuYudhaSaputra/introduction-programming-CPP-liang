@@ -309,6 +309,17 @@
         </a>
         <span> | </span>
       </li>
+      <li> 02.15.DistanceTwoPoint
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/02.15.DistanceTwoPoint.cpp">
+           (Baris Kode)
+        </a>
+        <span> | </span>
+        <a href="https://www.slideshare.net/slideshow/jarak-dua-titik-dalam-diagram-cartesius-menggunakan-bahasa-pemrograman-c/267095623"> 
+           (Penjelasan) 
+        </a>
+        <span> | </span>
+      </li>
     </ul>
 </div>
 
