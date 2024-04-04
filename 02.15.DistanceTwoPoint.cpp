@@ -4,7 +4,7 @@ using namespace std;
 
 /*
     ========================================================================
-    02.14. Distance Of Two Point
+    02.15. Distance Of Two Point
     by   : #bayuyudhasaputra
     lang : IDN (Bahasa Indonesia)
     ------------------------------------------------------------------------
