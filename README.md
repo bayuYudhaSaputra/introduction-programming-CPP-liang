@@ -320,6 +320,17 @@
         </a>
         <span> | </span>
       </li>
+      <li> 02.16.AreaHexagonal
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/02.16.AreaHexagonal.cpp">
+           (Baris Kode)
+        </a>
+        <span> | </span>
+        <a href="https://www.slideshare.net/slideshow/0216-luas-segienam-menggunakan-bahasa-pemrograman-c/267121387"> 
+           (Penjelasan) 
+        </a>
+        <span> | </span>
+      </li>  
     </ul>
 </div>
 
