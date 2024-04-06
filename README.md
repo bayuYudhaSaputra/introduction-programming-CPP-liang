@@ -330,7 +330,18 @@
            (Penjelasan) 
         </a>
         <span> | </span>
-      </li>  
+      </li>
+      <li> 02.17.WindChillTemperature
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/02.17.WindChillTemperature.cp">
+           (Baris Kode)
+        </a>
+        <span> | </span>
+        <a href="https://www.slideshare.net/slideshow/0217-menentukan-temperatre-windchill-menggunakan-bahasa-pemrograman-c/267141644"> 
+           (Penjelasan) 
+        </a>
+        <span> | </span>
+      </li>
     </ul>
 </div>
 
