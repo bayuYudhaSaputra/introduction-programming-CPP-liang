@@ -342,6 +342,17 @@
         </a>
         <span> | </span>
       </li>
+      <li> 02.18.PrintATable
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/02.18.PrintATable.cpp">
+           (Baris Kode)
+        </a>
+        <span> | </span>
+        <a href="https://www.slideshare.net/slideshow/0218-menampilkan-tabel-perpangkatan-menggunakan-bahasa-pemrograman-c/267293748"> 
+           (Penjelasan) 
+        </a>
+        <span> | </span>
+      </li>
     </ul>
 </div>
 
