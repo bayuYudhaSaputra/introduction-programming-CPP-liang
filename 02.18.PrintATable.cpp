@@ -25,71 +25,71 @@ using namespace std;
 
 int main()
 {
-    // 1. Mendefinisikan dua variabel
-    double bilanganBasis, bilanganPangkat, hasilPangkat;
+     // 1. Mendefinisikan dua variabel
+     double bilanganBasis, bilanganPangkat, hasilPangkat;
 
-    // 2. Mengkalkulasi nilai pertama
-    bilanganBasis = 2.5;
-    bilanganPangkat = 1.2;
-    hasilPangkat = pow(bilanganBasis, bilanganPangkat);
-    
-    // 3. Menampilkan hasil pangkat nilai pertama
-    cout << endl
-         << " ================================================="
-         << endl
-         << endl
-         << "   Basis  " << "  Pangkat  " << "  Hasil  "
-         << endl
-         << endl
-         << " -------------------------------------------------"
-         << endl
-         << endl
-         << "   " << bilanganBasis << "      " << bilanganPangkat << "        " << hasilPangkat
-         << endl
-         << endl;
-    
-    // 4. Mengkalkulasi nilai kedua
-    bilanganBasis = 5.0;
-    bilanganPangkat = 2.4;
-    hasilPangkat = pow(bilanganBasis, bilanganPangkat);
+     // 2. Mengkalkulasi nilai pertama
+     bilanganBasis = 2.5;
+     bilanganPangkat = 1.2;
+     hasilPangkat = pow(bilanganBasis, bilanganPangkat);
 
-    // 5. Menampilkan hasil pangkat nilai kedua
-    cout << "   " << bilanganBasis << "        " << bilanganPangkat << "        " << hasilPangkat
-         << endl
-         << endl;
-    
-    // 6. mengkalkulasi nilai ketiga
-    bilanganBasis = 1.2;
-    bilanganPangkat = 3.6;
-    hasilPangkat = pow(bilanganBasis, bilanganPangkat);
+     // 3. Menampilkan hasil pangkat nilai pertama
+     cout << endl
+          << " ================================================="
+          << endl
+          << endl
+          << "   Basis  " << "  Pangkat  " << "  Hasil  "
+          << endl
+          << endl
+          << " -------------------------------------------------"
+          << endl
+          << endl
+          << "   " << bilanganBasis << "      " << bilanganPangkat << "        " << hasilPangkat
+          << endl
+          << endl;
 
-    // 7. Menampilkan hasil pangkat ketiga
-    cout << "   " << bilanganBasis << "      " << bilanganPangkat << "        " << hasilPangkat
-         << endl
-         << endl;
+     // 4. Mengkalkulasi nilai kedua
+     bilanganBasis = 5.0;
+     bilanganPangkat = 2.4;
+     hasilPangkat = pow(bilanganBasis, bilanganPangkat);
 
-    // 8. mengkalkulasi nilai keempat
-    bilanganBasis = 2.4;
-    bilanganPangkat = 5.0;
-    hasilPangkat = pow(bilanganBasis, bilanganPangkat);
+     // 5. Menampilkan hasil pangkat nilai kedua
+     cout << "   " << bilanganBasis << "        " << bilanganPangkat << "        " << hasilPangkat
+          << endl
+          << endl;
 
-    // 9. Menampilkan hasil pangkat keempat
-    cout << "   " << bilanganBasis << "        " << bilanganPangkat << "        " << hasilPangkat
-         << endl
-         << endl;
+     // 6. mengkalkulasi nilai ketiga
+     bilanganBasis = 1.2;
+     bilanganPangkat = 3.6;
+     hasilPangkat = pow(bilanganBasis, bilanganPangkat);
 
-    // 10. mengkalkulasi nilai kelima
-    bilanganBasis = 3.6;
-    bilanganPangkat = 2.5;
-    hasilPangkat = pow(bilanganBasis, bilanganPangkat);
+     // 7. Menampilkan hasil pangkat ketiga
+     cout << "   " << bilanganBasis << "      " << bilanganPangkat << "        " << hasilPangkat
+          << endl
+          << endl;
 
-    // 11. Menampilkan hasil pangkat kelima
-    cout << "   " << bilanganBasis << "      " << bilanganPangkat << "        " << hasilPangkat
-         << endl
-         << endl
-         << " =================================================";
+     // 8. mengkalkulasi nilai keempat
+     bilanganBasis = 2.4;
+     bilanganPangkat = 5.0;
+     hasilPangkat = pow(bilanganBasis, bilanganPangkat);
 
-    return 0;
+     // 9. Menampilkan hasil pangkat keempat
+     cout << "   " << bilanganBasis << "        " << bilanganPangkat << "        " << hasilPangkat
+          << endl
+          << endl;
+
+     // 10. mengkalkulasi nilai kelima
+     bilanganBasis = 3.6;
+     bilanganPangkat = 2.5;
+     hasilPangkat = pow(bilanganBasis, bilanganPangkat);
+
+     // 11. Menampilkan hasil pangkat kelima
+     cout << "   " << bilanganBasis << "      " << bilanganPangkat << "        " << hasilPangkat
+          << endl
+          << endl
+          << " =================================================";
+
+     return 0;
 }
 
 /*
