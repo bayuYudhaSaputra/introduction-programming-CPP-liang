@@ -353,6 +353,17 @@
         </a>
         <span> | </span>
       </li>
+     <li> 02.19.AreaTriangle
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/02.19.AreaTriangle.cpp">
+           (Baris Kode)
+        </a>
+        <span> | </span>
+        <a href="https://www.slideshare.net/slideshow/0219-menentukan-luas-segitiga-sembarang-menggunakan-bahasa-pemrograman-c/267394125"> 
+           (Penjelasan) 
+        </a>
+        <span> | </span>
+      </li>
     </ul>
 </div>
 
