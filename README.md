@@ -375,6 +375,17 @@
         </a>
         <span> | </span>
       </li>
+      <li> 02.21.CostOfDriving
+        <span> | </span>
+        <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/02.21.CostOfDriving.cpp">
+           (Baris Kode)
+        </a>
+        <span> | </span>
+        <a href="https://www.slideshare.net/slideshow/0221-menentukan-biaya-perjalanan-menggunakan-bahasa-pemrograman-c/267449768"> 
+           (Penjelasan) 
+        </a>
+        <span> | </span>
+      </li>
     </ul>
 </div>
 
