@@ -396,7 +396,7 @@
                (Baris Kode)
             </a>
             <span> | </span>
-            <a href=""> 
+            <a href="https://www.slideshare.net/slideshow/03-01-menyelesaikan-persamaan-kuadrat-menggunakan-bahasa-pemrograman-c/268626845"> 
                (Penjelasan) 
             </a>
             <span> | </span>
