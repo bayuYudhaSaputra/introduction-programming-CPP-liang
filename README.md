@@ -388,4 +388,20 @@
       </li>
     </ul>
 </div>
+<div>
+    <h2> Chapter 3 </h2>
+    <ul>
+        <li> 03.01.SolveQudraticEquation
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.01.SolveQuadraticEquation.cpp">
+           (Baris Kode)
+        </a>
+        <span> | </span>
+        <a href=""> 
+           (Penjelasan) 
+        </a>
+        <span> | </span>
+            
+        </li>
+    </ul>
+</div>
 
