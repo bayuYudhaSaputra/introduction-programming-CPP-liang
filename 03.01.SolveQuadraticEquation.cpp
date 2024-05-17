@@ -44,10 +44,10 @@ int main()
                   << std::endl;
         
         // 4. Hitung determinan
-        double determinan = pow(koefisienX, 2) - 4 * koefisienX2 * konstanta;
+        double diskriminan = pow(koefisienX, 2) - 4 * koefisienX2 * konstanta;
 
         // 5. Periksa determinan
-        if (determinan < 0)
+        if (diskriminan < 0)
         {
             //6. Tampilkan pesan 
             std::cout << "Warning : Persamaan kuadrat "
@@ -56,7 +56,7 @@ int main()
             << std::endl;
 
         }
-        else if (determinan == 0)
+        else if (diskriminan == 0)
         {
             // 6. Hitung akar persamaan kuadrat
             double akar = - koefisienX / (2 * koefisienX2);
@@ -70,8 +70,8 @@ int main()
         else
         {
             //6 . Hitung akar-akar persamaan kuadrat
-            double akar1 = - (koefisienX + pow(determinan, 0.5)) / (2 * koefisienX2);
-            double akar2 = - (koefisienX - pow(determinan, 0.5)) / (2 * koefisienX2);
+            double akar1 = - (koefisienX + pow(diskriminan, 0.5)) / (2 * koefisienX2);
+            double akar2 = - (koefisienX - pow(diskriminan, 0.5)) / (2 * koefisienX2);
 
             //7. Tampilkan akar-akar persamaan kuadrat
             std::cout << "Persamaan kuadrat "
