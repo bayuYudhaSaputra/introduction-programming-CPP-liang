@@ -420,8 +420,7 @@
                (Penjelasan) 
             </a>
             <span> | </span>
-        </li>
-        
+        </li> 
     </ul>
          
 </div>
