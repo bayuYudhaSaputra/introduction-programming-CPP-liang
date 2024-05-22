@@ -411,6 +411,17 @@
             </a>
             <span> | </span>
         </li>
+        <li> 03.03. Solve Linear Equation
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.03.SolveLinearEquation.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-03-menentukan-penyelesaian-sistem-persamaan-linear-dua-variabel-menggunakan-bahasa-pemrograman-c/269095368"> 
+               (Penjelasan) 
+            </a>
+            <span> | </span>
+        </li>
+        
     </ul>
          
 </div>
