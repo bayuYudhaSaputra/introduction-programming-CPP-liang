@@ -420,7 +420,17 @@
                (Penjelasan) 
             </a>
             <span> | </span>
-        </li> 
+        </li>
+        <li> 03.04. Check The Speed
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.04.CheckSpeed.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-04-menguji-kecepatan-menggunakan-bahasa-pemrograman-c/269247583"> 
+               (Penjelasan) 
+            </a>
+            <span> | </span>
+        </li>
     </ul>
          
 </div>
