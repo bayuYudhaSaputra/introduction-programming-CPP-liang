@@ -431,6 +431,16 @@
             </a>
             <span> | </span>
         </li>
+        <li> 03.05. Find Future dates
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.05.FindFutureDates.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-05-menentukan-hari-esok-menggunakan-bahasa-pemrograman-c/269356275"> 
+               (Penjelasan) 
+            </a>
+            <span> | </span>
+        </li>
     </ul>
          
 </div>
