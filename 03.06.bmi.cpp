@@ -32,10 +32,12 @@ int main()
     std::cout << std::endl;
 
     // 2. Cek input
-    if (beratPound < 0 || tinggiFeet < 0 || tinggiInchi < 0)
+    if ((beratPound < 0 || beratPound == 0) || 
+        (tinggiFeet < 0 || tinggiFeet == 0) || 
+        (tinggiInchi < 0 || tinggiInchi == 0))
     {
         // 3. Tampilkan pesan peringatan
-        std::cout << "Input bilangan positif." << std::endl;
+        std::cout << "Peringatan : Input bilangan positif." << std::endl;
     }
     else
     {
