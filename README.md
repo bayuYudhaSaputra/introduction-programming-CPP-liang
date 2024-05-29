@@ -441,6 +441,16 @@
             </a>
             <span> | </span>
         </li>
+        <li> 03.06. BMI
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.06.bmi.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-06-menentukan-body-mass-index-menggunakan-bahasa-pemrograman-c/269407508"> 
+               (Penjelasan) 
+            </a>
+            <span> | </span>
+        </li>
     </ul>
          
 </div>
