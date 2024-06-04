@@ -451,6 +451,16 @@
             </a>
             <span> | </span>
         </li>
+        <li> 03.07. Sort Three Integres
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.07.SortThreeIntegers.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="#"> 
+               (Penjelasan) 
+            </a>
+            <span> | </span>
+        </li>
         <li> 03.08. Comparing Integers
             <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.08.ComparingIntegers.cpp">
                (Baris Kode)
