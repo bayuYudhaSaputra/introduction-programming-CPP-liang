@@ -456,7 +456,7 @@
                (Baris Kode)
             </a>
             <span> | </span>
-            <a href="#"> 
+            <a href="https://www.slideshare.net/slideshow/03-07-mengurutkan-integer-menggunakan-bahasa-pemrograman-c/269531457"> 
                (Penjelasan) 
             </a>
             <span> | </span>
