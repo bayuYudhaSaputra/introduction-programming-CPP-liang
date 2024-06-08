@@ -461,7 +461,7 @@
             </a>
             <span> | </span>
         </li>
-        <li> 03.09. Display The Day And Remaining Hours
+        <li> 03.08. Comparing Integers Display
             <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.08.ComparingIntegers.cpp">
                (Baris Kode)
             </a>
@@ -471,7 +471,7 @@
             </a>
             <span> | </span>
         </li>
-        <li> 03.09. Comparing Integers
+        <li> 03.09. The Day And Remaining Hours
             <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.09.DisplayTheDayAndRemainingHours.cpp">
                (Baris Kode)
             </a>
