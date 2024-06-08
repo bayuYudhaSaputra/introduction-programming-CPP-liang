@@ -461,12 +461,22 @@
             </a>
             <span> | </span>
         </li>
-        <li> 03.08. Comparing Integers
+        <li> 03.09. Display The Day And Remaining Hours
             <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.08.ComparingIntegers.cpp">
                (Baris Kode)
             </a>
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/03-08-membandingkan-integer-menggunakan-bahasa-pemrograman-c/269464072"> 
+               (Penjelasan) 
+            </a>
+            <span> | </span>
+        </li>
+        <li> 03.09. Comparing Integers
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.09.DisplayTheDayAndRemainingHours.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-09-menampilkan-nama-hari-dan-selisih-hari-menggunakan-bahasa-pemrograman-c/269577016"> 
                (Penjelasan) 
             </a>
             <span> | </span>
