@@ -481,6 +481,16 @@
             </a>
             <span> | </span>
         </li>
+        <li> 03.10. Multiplication Quiz
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.10.MultipicationQuiz.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-10-permainan-perkalian-menggunakan-bahasa-pemrograman-c/269614996"> 
+               (Penjelasan) 
+            </a>
+            <span> | </span>
+        </li>
     </ul>
          
 </div>
