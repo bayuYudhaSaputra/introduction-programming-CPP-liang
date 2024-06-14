@@ -491,6 +491,16 @@
             </a>
             <span> | </span>
         </li>
+        <li> 03.11. Loan Interest rate
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.11.InterestRate.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-11-menentukan-bunga-pinjaman-menggunakan-bahasa-pemrograman-c/269688299"> 
+               (Penjelasan) 
+            </a>
+            <span> | </span>
+        </li>
     </ul>
          
 </div>
