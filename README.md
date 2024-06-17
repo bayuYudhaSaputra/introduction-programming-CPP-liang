@@ -501,6 +501,16 @@
             </a>
             <span> | </span>
         </li>
+        <li> 03.12. Loan Interest rate
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.12.EvenOrOdd.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-12-games-tebak-bilangan-genap-atau-ganjil-menggunakan-bahasa-pemrograman-c/269726407"> 
+               (Penjelasan) 
+            </a>
+            <span> | </span>
+        </li>
     </ul>
          
 </div>
