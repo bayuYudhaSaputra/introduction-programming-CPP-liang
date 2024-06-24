@@ -511,6 +511,16 @@
             </a>
             <span> | </span>
         </li>
+        <li> 03.13. Financial : Compute Taxes
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.13.ComputeTaxes.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-13-menghitung-pajak-penghasilan-menggunakan-bahasa-pemrograman-c/269859949"> 
+               (Slideshare) 
+            </a>
+            <span> | </span>
+        </li>
     </ul>
          
 </div>
