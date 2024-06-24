@@ -501,7 +501,7 @@
             </a>
             <span> | </span>
         </li>
-        <li> 03.12. Loan Interest rate
+        <li> 03.12. Games : Even or Odd
             <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.12.EvenOrOdd.cpp">
                (Baris Kode)
             </a>
