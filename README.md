@@ -397,7 +397,11 @@
             </a>
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/03-01-menentukan-penyelesaian-persamaan-kuadrat-menggunakan-bahasa-pemrogaman-c/268633256"> 
-               (Penjelasan) 
+               (Slideshare) 
+            </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-01-menentukan-akar-persamaan-kuadrat-menggunakan-bahasa-pemrograman-c-40c857a26855"> 
+               (Medium) 
             </a>
             <span> | </span>
         </li>
