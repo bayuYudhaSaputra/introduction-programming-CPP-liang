@@ -411,7 +411,11 @@
             </a>
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/03-02-menguji-keterbagian-bilangan-menggunakan-bahasa-pemrograman-c/268691059"> 
-               (Penjelasan) 
+               (Slideshare) 
+            </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-02-menguji-keterbagian-bilangan-menggunakan-bahasa-pemrograman-c-f0e6bf8f671e"> 
+               (Medium) 
             </a>
             <span> | </span>
         </li>
