@@ -425,7 +425,11 @@
             </a>
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/03-03-menentukan-penyelesaian-sistem-persamaan-linear-dua-variabel-menggunakan-bahasa-pemrograman-c/269095368"> 
-               (Penjelasan) 
+               (SlideShare) 
+            </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/m-alir-03-03-menyelesaikan-persamaan-linier-menggunakan-bahasa-pemrograman-c-649d3be6a833"> 
+               (Medium) 
             </a>
             <span> | </span>
         </li>
