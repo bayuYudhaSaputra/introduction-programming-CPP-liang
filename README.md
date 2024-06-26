@@ -439,7 +439,11 @@
             </a>
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/03-04-menguji-kecepatan-menggunakan-bahasa-pemrograman-c/269247583"> 
-               (Penjelasan) 
+               (SlideShare) 
+            </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-04-mengecek-kecepatan-menggunakan-bahasa-pemrogram-c-95c349abbd41"> 
+               (Medium) 
             </a>
             <span> | </span>
         </li>
