@@ -461,14 +461,17 @@
             </a>
             <span> | </span>
         </li>
-        
         <li> 03.06. BMI
             <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.06.bmi.cpp">
                (Baris Kode)
             </a>
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/03-06-menentukan-body-mass-index-menggunakan-bahasa-pemrograman-c/269407508"> 
-               (Penjelasan) 
+               (SlideShare) 
+            </a>
+            <span> | </span>
+            <a href="#"> 
+               (Medium) 
             </a>
             <span> | </span>
         </li>
@@ -478,7 +481,11 @@
             </a>
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/03-07-mengurutkan-integer-menggunakan-bahasa-pemrograman-c/269531457"> 
-               (Penjelasan) 
+               (SlideShare) 
+            </a>
+            <span> | </span>
+            <a href="#"> 
+               (Medium) 
             </a>
             <span> | </span>
         </li>
@@ -488,17 +495,25 @@
             </a>
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/03-08-membandingkan-integer-menggunakan-bahasa-pemrograman-c/269464072"> 
-               (Penjelasan) 
+               (SlideShare) 
+            </a>
+            <span> | </span>
+            <a href="#"> 
+               (Medium) 
             </a>
             <span> | </span>
         </li>
-        <li> 03.09. The Day And Remaining Hours
+         <li> 03.09. The Day And Remaining Hours
             <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.09.DisplayTheDayAndRemainingHours.cpp">
                (Baris Kode)
             </a>
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/03-09-menampilkan-nama-hari-dan-selisih-hari-menggunakan-bahasa-pemrograman-c/269577016"> 
-               (Penjelasan) 
+               (SlideShare) 
+            </a>
+            <span> | </span>
+             <a href="#"> 
+               (Medium) 
             </a>
             <span> | </span>
         </li>
@@ -508,7 +523,11 @@
             </a>
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/03-10-permainan-perkalian-menggunakan-bahasa-pemrograman-c/269614996"> 
-               (Penjelasan) 
+               (SlideShare) 
+            </a>
+            <span> | </span>
+            <a href="#"> 
+               (Medium) 
             </a>
             <span> | </span>
         </li>
@@ -528,7 +547,11 @@
             </a>
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/03-12-games-tebak-bilangan-genap-atau-ganjil-menggunakan-bahasa-pemrograman-c/269726407"> 
-               (Penjelasan) 
+               (SlideShare) 
+            </a>
+            <span> | </span>
+            <a href="#"> 
+               (Medium) 
             </a>
             <span> | </span>
         </li>
@@ -539,6 +562,10 @@
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/03-13-menghitung-pajak-penghasilan-menggunakan-bahasa-pemrograman-c/269859949"> 
                (Slideshare) 
+            </a>
+            <span> | </span>
+            <a href="#"> 
+               (Medium) 
             </a>
             <span> | </span>
         </li>
