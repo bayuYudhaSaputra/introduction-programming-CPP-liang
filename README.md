@@ -460,8 +460,8 @@
                (Medium)
             </a>
             <span> | </span>
-
         </li>
+        
         <li> 03.06. BMI
             <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.06.bmi.cpp">
                (Baris Kode)
