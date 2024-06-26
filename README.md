@@ -453,9 +453,14 @@
             </a>
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/03-05-menentukan-hari-esok-menggunakan-bahasa-pemrograman-c/269356275"> 
-               (Penjelasan) 
+               (SlideShare) 
             </a>
             <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-05-menentukan-nama-hari-berikutnya-menggunakan-bahasa-pemrograman-c-2693936a5140"> 
+               (Medium)
+            </a>
+            <span> | </span>
+
         </li>
         <li> 03.06. BMI
             <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.06.bmi.cpp">
