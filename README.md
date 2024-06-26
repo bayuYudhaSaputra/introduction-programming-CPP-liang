@@ -537,7 +537,11 @@
             </a>
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/03-11-menentukan-bunga-pinjaman-menggunakan-bahasa-pemrograman-c/269688299"> 
-               (Penjelasan) 
+               (SlideShare) 
+            </a>
+            <span> | </span>
+            <a href="#"> 
+               (Medium) 
             </a>
             <span> | </span>
         </li>
