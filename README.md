@@ -573,6 +573,20 @@
             </a>
             <span> | </span>
         </li>
+        <li> 03.14.Game : Prediction
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.14.Game_Prediction.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-14-prediksi-bilangan-menggunakan-bahasa-pemrograman-c/269977749"> 
+               (Slideshare) 
+            </a>
+            <span> | </span>
+            <a href="#"> 
+               (Medium) 
+            </a>
+            <span> | </span>
+        </li>
     </ul>
          
 </div>
