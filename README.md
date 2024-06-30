@@ -470,7 +470,7 @@
                (SlideShare) 
             </a>
             <span> | </span>
-            <a href="#"> 
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-06-menghitung-body-mass-index-9288162b7960"> 
                (Medium) 
             </a>
             <span> | </span>
@@ -484,7 +484,7 @@
                (SlideShare) 
             </a>
             <span> | </span>
-            <a href="#"> 
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-07-mengurutkan-bilangan-integer-menggunakan-bahasa-pemrograman-c-cbb1a639ecf6"> 
                (Medium) 
             </a>
             <span> | </span>
