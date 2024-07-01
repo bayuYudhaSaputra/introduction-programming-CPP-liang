@@ -498,7 +498,7 @@
                (SlideShare) 
             </a>
             <span> | </span>
-            <a href="#"> 
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-08-menentukan-jenis-segitiga-menggunakan-bahasa-pemrograman-c-46595f76ef16"> 
                (Medium) 
             </a>
             <span> | </span>
