@@ -582,7 +582,7 @@
                (Slideshare) 
             </a>
             <span> | </span>
-            <a href="#"> 
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-14-pemainan-memprediksi-menggunakan-bahasa-pemrograman-c-f24bc129478b"> 
                (Medium) 
             </a>
             <span> | </span>
