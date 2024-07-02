@@ -512,7 +512,7 @@
                (SlideShare) 
             </a>
             <span> | </span>
-             <a href="#"> 
+             <a href="https://medium.com/@bayuyudhasaputraqed/03-09-menentukan-nama-hari-dan-sisa-jam-menggunakan-bahasa-pemrograman-c-c56797650e90"> 
                (Medium) 
             </a>
             <span> | </span>
@@ -526,7 +526,7 @@
                (SlideShare) 
             </a>
             <span> | </span>
-            <a href="https://medium.com/@bayuyudhasaputraqed/03-09-menentukan-nama-hari-dan-sisa-jam-menggunakan-bahasa-pemrograman-c-c56797650e90"> 
+            <a href="#"> 
                (Medium) 
             </a>
             <span> | </span>
