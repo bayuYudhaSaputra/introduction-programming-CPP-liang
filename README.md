@@ -526,7 +526,7 @@
                (SlideShare) 
             </a>
             <span> | </span>
-            <a href="#"> 
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-10-kuis-perkalian-menggunakan-bahasa-pemrograman-c-6d7135c8b664"> 
                (Medium) 
             </a>
             <span> | </span>
