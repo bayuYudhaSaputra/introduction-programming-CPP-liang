@@ -540,7 +540,7 @@
                (SlideShare) 
             </a>
             <span> | </span>
-            <a href="#"> 
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-11-menentukan-bunga-pinjaman-menggunakan-bahasa-pemrograman-c-0530ef857931"> 
                (Medium) 
             </a>
             <span> | </span>
@@ -596,7 +596,7 @@
                (Slideshare) 
             </a>
             <span> | </span>
-            <a href=""> 
+            <a href="#"> 
                (Medium) 
             </a>
             <span> | </span>
