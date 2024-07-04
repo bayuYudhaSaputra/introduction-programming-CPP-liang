@@ -573,7 +573,7 @@
             </a>
             <span> | </span>
         </li>
-        <li> 03.14.Game : Prediction
+        <li> 03.14. Game : Prediction
             <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.14.Game_Prediction.cpp">
                (Baris Kode)
             </a>
@@ -583,6 +583,20 @@
             </a>
             <span> | </span>
             <a href="https://medium.com/@bayuyudhasaputraqed/03-14-pemainan-memprediksi-menggunakan-bahasa-pemrograman-c-f24bc129478b"> 
+               (Medium) 
+            </a>
+            <span> | </span>
+        </li>
+        <li> 03.15. Game : Scissors, Rocks, Paper
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.15.Game_Scissors_Rock_Paper.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-15-permainan-batu-gunting-kertas-menggunakan-bahasa-pemrograman-c/270058307"> 
+               (Slideshare) 
+            </a>
+            <span> | </span>
+            <a href=""> 
                (Medium) 
             </a>
             <span> | </span>
