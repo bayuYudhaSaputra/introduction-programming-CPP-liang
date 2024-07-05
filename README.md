@@ -554,7 +554,7 @@
                (SlideShare) 
             </a>
             <span> | </span>
-            <a href="#"> 
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-12-games-tebak-bilangan-genap-atau-ganjil-menggunakan-bahasa-pemrograman-c-c3caeba17c72"> 
                (Medium) 
             </a>
             <span> | </span>
