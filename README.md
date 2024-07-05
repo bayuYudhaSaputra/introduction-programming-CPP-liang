@@ -606,7 +606,7 @@
                (Baris Kode)
             </a>
             <span> | </span>
-            <a href="https://www.slideshare.net/slideshow/03-16-menentukan-luas-segitiga-samasisi-menggunakn-bahasa-pemrograman-c/270085840"> 
+            <a href="https://www.slideshare.net/slideshow/03-16-menentukan-luas-segitiga-samasisi-menggunakan-bahasa-pemrograman-c-1/270086022"> 
                (Slideshare) 
             </a>
             <span> | </span>
