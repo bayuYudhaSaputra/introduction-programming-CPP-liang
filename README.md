@@ -601,6 +601,20 @@
             </a>
             <span> | </span>
         </li>
+        <li> 03.16. Compute the area of an equilateral triangle
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.16.compute_area_triangle.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-16-menentukan-luas-segitiga-samasisi-menggunakn-bahasa-pemrograman-c/270085840"> 
+               (Slideshare) 
+            </a>
+            <span> | </span>
+            <a href="#"> 
+               (Medium) 
+            </a>
+            <span> | </span>
+        </li>
     </ul>
          
 </div>
