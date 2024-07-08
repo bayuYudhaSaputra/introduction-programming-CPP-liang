@@ -620,7 +620,7 @@
                (Baris Kode)
             </a>
             <span> | </span>
-            <a href="#"> 
+            <a href="https://www.slideshare.net/slideshow/03-17-penjumlahan-digit-digit-pembentuk-bilangan-ratusan-menggunakan-bahasa-pemrograman-c/270130049"> 
                (Slideshare) 
             </a>
             <span> | </span>
