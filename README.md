@@ -568,7 +568,7 @@
                (Slideshare) 
             </a>
             <span> | </span>
-            <a href="#"> 
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-13-menghitung-pajak-penghasilan-menggunakan-bahasa-pemrograman-c-9b7ff92f4a43"> 
                (Medium) 
             </a>
             <span> | </span>
@@ -596,7 +596,7 @@
                (Slideshare) 
             </a>
             <span> | </span>
-            <a href="#"> 
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-15-permainan-batu-gunting-kertas-menggunakan-bahasa-pemrograman-c-3176790370f1"> 
                (Medium) 
             </a>
             <span> | </span>
@@ -607,6 +607,20 @@
             </a>
             <span> | </span>
             <a href="https://www.slideshare.net/slideshow/03-16-menentukan-luas-segitiga-samasisi-menggunakan-bahasa-pemrograman-c-1/270086022"> 
+               (Slideshare) 
+            </a>
+            <span> | </span>
+            <a href="#"> 
+               (Medium) 
+            </a>
+            <span> | </span>
+        </li>
+        <li> 03.17. Sum the digits in an integer
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.17.sum_the_digit_of_integers.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="#"> 
                (Slideshare) 
             </a>
             <span> | </span>
