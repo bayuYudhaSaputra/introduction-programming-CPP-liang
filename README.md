@@ -624,7 +624,7 @@
                (Slideshare) 
             </a>
             <span> | </span>
-            <a href="#"> 
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-17-penjumlahan-digit-digit-pembentuk-bilangan-ratusan-menggunakan-c-0e32acffd641"> 
                (Medium) 
             </a>
             <span> | </span>
