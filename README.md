@@ -610,7 +610,7 @@
                (Slideshare) 
             </a>
             <span> | </span>
-            <a href="#"> 
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-16-menentukan-luas-segitiga-samasisi-menggunakan-c-67b2d8ce81f1"> 
                (Medium) 
             </a>
             <span> | </span>
