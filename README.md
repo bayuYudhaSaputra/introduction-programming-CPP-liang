@@ -638,7 +638,7 @@
                (Slideshare) 
             </a>
             <span> | </span>
-            <a href="#"> 
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-18-mengalikan-empat-bilangan-acak-menggunakan-bahasa-pemrograman-c-39a3e4d4456d"> 
                (Medium) 
             </a>
             <span> | </span>
