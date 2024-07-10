@@ -629,6 +629,20 @@
             </a>
             <span> | </span>
         </li>
+        <li> 03.18. Game:Multiplication for four numbers
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.18.multiplication_four_numbers.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-18-mengalikan-empat-bilangan-acak-menggunakan-bahasa-pemrograman-c/270173221"> 
+               (Slideshare) 
+            </a>
+            <span> | </span>
+            <a href="#"> 
+               (Medium) 
+            </a>
+            <span> | </span>
+        </li>
     </ul>
          
 </div>
