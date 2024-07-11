@@ -385,6 +385,10 @@
            (Penjelasan) 
         </a>
         <span> | </span>
+        <a href="https://medium.com/@bayuyudhasaputraqed/02-21-biaya-perjalanan-menggunakan-bahasa-pemrograman-c-1b3a809a097c"> 
+            (Medium) 
+        </a>
+        <span> | </span>
       </li>
     </ul>
 </div>
