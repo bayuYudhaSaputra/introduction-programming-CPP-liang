@@ -647,6 +647,20 @@
             </a>
             <span> | </span>
         </li>
+        <li> 03.19. Geometry: point in a circle?
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.19.point_in_circle.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-19-menentukan-hubungan-titik-dengan-lingkaran-menggunakan-bahasa-pemrograman-c/270257238"> 
+               (Slideshare) 
+            </a>
+            <span> | </span>
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-19-menentukan-hubungan-titik-dengan-lingkaran-menggunakan-bahasa-pemrograman-c-fabc43974f10"> 
+               (Medium) 
+            </a>
+            <span> | </span>
+        </li>
     </ul>
          
 </div>
