@@ -661,6 +661,20 @@
             </a>
             <span> | </span>
         </li>
+         <li> 03.20. Geometry: point in a rectanglr?
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.20.point_in_rectangle.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-20-posisi-titik-terhadap-persegi-panjang-menggunakan-bahasa-pemrograman-c/270375127"> 
+               (Slideshare) 
+            </a>
+            <span> | </span>
+            <a href="#"> 
+               (Medium) 
+            </a>
+            <span> | </span>
+        </li>
     </ul>
          
 </div>
