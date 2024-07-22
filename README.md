@@ -670,7 +670,7 @@
                (Slideshare) 
             </a>
             <span> | </span>
-            <a href="#"> 
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-20-titik-pada-persegi-panjang-menggunakan-bahasa-pemrograman-c-f226f94e087c"> 
                (Medium) 
             </a>
             <span> | </span>
