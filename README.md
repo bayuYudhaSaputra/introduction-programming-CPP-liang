@@ -684,7 +684,7 @@
                (Slideshare) 
             </a>
             <span> | </span>
-            <a href=""> 
+            <a href="https://medium.com/@bayuyudhasaputraqed/03-21-menampilkan-kartu-remi-menggunakan-bahasa-pemrograman-c-a201ff2111df"> 
                (Medium) 
             </a>
             <span> | </span>
