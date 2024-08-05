@@ -661,7 +661,7 @@
             </a>
             <span> | </span>
         </li>
-         <li> 03.20. Geometry: point in a rectanglr?
+         <li> 03.20. Geometry: point in a rectangle
             <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.20.point_in_rectangle.cpp">
                (Baris Kode)
             </a>
@@ -674,6 +674,23 @@
                (Medium) 
             </a>
             <span> | </span>
+        </li>
+        <li> 03.21.pick_a_card.cpp
+            <a href = "https://github.com/bayuYudhaSaputra/introduction-programming-CPP-liang/blob/main/03.21.pick_a_card.cpp">
+               (Baris Kode)
+            </a>
+            <span> | </span>
+            <a href="https://www.slideshare.net/slideshow/03-21-menampilkan-kartu-remi-menggunakan-bahasa-pemrograman-c/270769597"> 
+               (Slideshare) 
+            </a>
+            <span> | </span>
+            <a href=""> 
+               (Medium) 
+            </a>
+            <span> | </span>
+            <a href="https://www.scribd.com/document/756219852/03-21-Menampilkan-Kartu-Remi-Menggunakan-Bahasa-Pemrograman-C"> 
+               (Scribd) 
+            </a>
         </li>
     </ul>
          
